@@ -1,0 +1,16 @@
+transaction_id,customer_id,product_id,quantity,sale_date,sale_amount,discount_amount,sales_rep
+1,1,1,1,2023-11-15,1299.99,0.00,Sarah Johnson
+2,2,2,2,2023-11-16,59.98,5.00,Mike Davis
+3,3,3,1,2023-11-17,249.99,25.00,Sarah Johnson
+4,4,4,1,2023-11-18,79.99,0.00,Lisa Chen
+5,5,5,1,2023-11-19,149.99,15.00,Mike Davis
+6,1,6,1,2023-11-20,99.99,10.00,Sarah Johnson
+7,6,7,1,2023-11-21,399.99,40.00,Lisa Chen
+8,7,8,1,2023-11-22,599.99,0.00,Mike Davis
+9,8,9,1,2023-11-23,199.99,20.00,Sarah Johnson
+10,9,10,1,2023-11-24,129.99,0.00,Lisa Chen
+11,10,1,1,2023-11-25,1299.99,100.00,Mike Davis
+12,2,3,1,2023-11-26,249.99,0.00,Sarah Johnson
+13,4,5,1,2023-11-27,149.99,0.00,Lisa Chen
+14,6,7,1,2023-11-28,399.99,50.00,Mike Davis
+15,8,9,1,2023-11-29,199.99,0.00,Sarah Johnson
